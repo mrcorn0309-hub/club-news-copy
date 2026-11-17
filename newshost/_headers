@@ -1,0 +1,6 @@
+/index.html
+  Cache-Control: no-cache
+/news.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: no-cache
+  Content-Type: application/json; charset=utf-8

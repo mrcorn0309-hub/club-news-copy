@@ -1,0 +1,290 @@
+{
+ "date": "2026-11-20",
+ "facts": [
+  {
+   "claim": "美股 11/19（週四）收盤大跌：道瓊重挫逾 1,000 點，標普 500 與那斯達克各跌約 2%",
+   "sources": [
+    "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/",
+    "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+    "https://247wallst.com/cards/the-dow-s-1-091-point-drop-came-alongside-declines-in-both-t-gspc-market-bell-01m7tszafyfeyqr7mh8p14494j"
+   ],
+   "official": false
+  },
+  {
+   "claim": "Anthropic 在 11/19（週四）於那斯達克掛牌（代號 ANT），當天是首個交易日",
+   "sources": [
+    "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026",
+    "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+    "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-googles-stake/"
+   ],
+   "official": false
+  },
+  {
+   "claim": "媒體報導 11/19 的大跌與市場對聯準會升息的討論升溫有關；聯準會 10 月會議紀錄 11/18 公布後，市場仍預期 12 月可能升息",
+   "sources": [
+    "https://247wallst.com/cards/the-dow-s-1-091-point-drop-came-alongside-declines-in-both-t-gspc-market-bell-01m7tszafyfeyqr7mh8p14494j",
+    "https://que.com/markets-split-at-the-close-as-hawkish-fed-minutes-keep-a-december-hike-on-the-table/"
+   ],
+   "official": false
+  }
+ ],
+ "sources": [
+  {
+   "title": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points（Motley Fool）",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/"
+  },
+  {
+   "title": "Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2%（Yahoo Finance）",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+  },
+  {
+   "title": "S&P 500 Drops Nearly 2% at the Close as Rate Hike Talk Hits Markets（24/7 Wall St.）",
+   "url": "https://247wallst.com/cards/the-dow-s-1-091-point-drop-came-alongside-declines-in-both-t-gspc-market-bell-01m7tszafyfeyqr7mh8p14494j"
+  },
+  {
+   "title": "Anthropic IPO live: ANT first trading day（StockTitan）",
+   "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
+  },
+  {
+   "title": "Alphabet Shares Fall as Anthropic Nasdaq Debut（Motley Fool）",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-googles-stake/"
+  },
+  {
+   "title": "Markets split at the close as hawkish Fed minutes keep a December hike on the table（QUE.com）",
+   "url": "https://que.com/markets-split-at-the-close-as-hawkish-fed-minutes-keep-a-december-hike-on-the-table/"
+  }
+ ],
+ "stories": [
+  {
+   "id": "selloff-1119",
+   "title": "美股 11/19 大跌",
+   "by": {
+    "hundan": {
+     "open": [
+      "🚨昨晚美股，殺聲震天",
+      "🔥道瓊一天掉了一千多點",
+      "📌11/19 美股收盤，紅字一片"
+     ],
+     "fact": [
+      "11/19（週四）美股收盤\n道瓊重挫逾 1,000 點\n標普 500、那斯達克各跌約 2%",
+      "道瓊 11/19 一天重挫逾 1,000 點，標普 500 與那斯達克各跌約 2%"
+     ],
+     "take": [
+      "結論：大跌那天最怕的是沒風控的人，倉位輕才睡得著",
+      "結論：市場教你的不是看對方向，是活下來。收工下課",
+      "結論：別人恐慌的時候我們照計畫，分享給有緣人",
+      "結論：跌的時候先問自己，這筆我扛不扛得住"
+     ]
+    },
+    "chen": {
+     "open": [
+      "昨晚美股收盤，風大了",
+      "11/19 那一根，看得我手心冒汗",
+      "美股昨晚大跌，你有沒有睡好"
+     ],
+     "fact": [
+      "美股 11/19 收盤\n道瓊重挫逾 1,000 點\n標普 500 和那斯達克各跌約 2%",
+      "11/19（週四）那斯達克與標普 500 各跌約 2%，道瓊掉了逾 1,000 點"
+     ],
+     "take": [
+      "風這麼大，我不吊\n以前我硬吊，現在照規則",
+      "荷重不夠就不要硬上\n你不會我教你，大跌天先看支腳穩不穩",
+      "超載的時候最危險\n不上頭、不盯盤、不焦慮",
+      "陣風來了就停工\n以前我捨不得停，現在照規則"
+     ]
+    },
+    "hao": {
+     "open": [
+      "昨晚美股 大幅走低📉",
+      "11/19 收盤 全面翻綠📅",
+      "美股一晚 重挫🧐"
+     ],
+     "fact": [
+      "美股 11/19 道瓊重挫逾 1,000 點📉",
+      "標普 500 那斯達克 11/19 各跌約 2%🧐"
+     ],
+     "take": [
+      "大跌的時候 我們的策略先守倉位👊",
+      "情緒最亂的時候 紀律最值錢😎",
+      "市場急殺 風控比判斷重要📅",
+      "懂得都懂 活著才有下一場👊"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "早安，昨晚美股跌得不輕",
+      "起床看到美股，先深呼吸",
+      "昨晚美股大跌，上班族先別慌"
+     ],
+     "fact": [
+      "美股 11/19（週四）收盤，道瓊重挫逾 1,000 點，標普 500 與那斯達克各跌約 2%",
+      "11/19 收盤，那斯達克和標普 500 各跌約 2%，道瓊下跌逾 1,000 點"
+     ],
+     "take": [
+      "大跌那天最容易衝動操作\n以前玩台股我也常在恐慌時做錯決定\n後來轉戰外匯才學會先停下來",
+      "新手遇到急跌，先看自己的倉位\n比猜明天怎麼走更重要",
+      "上班族不用盯著盤\n大跌天少看盤，也是保護自己",
+      "昨晚大跌，你有檢查過自己的風險嗎？"
+     ]
+    }
+   }
+  },
+  {
+   "id": "anthropic-ipo",
+   "title": "Anthropic 11/19 那斯達克掛牌",
+   "by": {
+    "hundan": {
+     "open": [
+      "📌Anthropic 昨晚上市了",
+      "🔥ANT 在那斯達克開張",
+      "🚨11/19 大新聞，Anthropic 掛牌"
+     ],
+     "fact": [
+      "Anthropic 11/19（週四）在那斯達克掛牌\n代號 ANT\n昨晚是首個交易日",
+      "代號 ANT 的 Anthropic 於 11/19 在那斯達克首度交易"
+     ],
+     "take": [
+      "結論：新股上市熱鬧歸熱鬧，別用頭熱的倉位去追",
+      "結論：新聞再大，進場也要照計畫。收工下課",
+      "結論：看熱鬧可以，下單前先想風控",
+      "結論：市場焦點越集中，波動越要小心。分享給有緣人"
+     ]
+    },
+    "chen": {
+     "open": [
+      "昨晚那斯達克多了一檔大新聞",
+      "Anthropic 上市，圈內都在聊",
+      "11/19 的主角是 ANT"
+     ],
+     "fact": [
+      "Anthropic 11/19 於那斯達克掛牌，代號 ANT，當天是首個交易日",
+      "11/19（週四）ANT 在那斯達克首度開始交易"
+     ],
+     "take": [
+      "熱門的東西最容易讓人超載\n以前我看到熱門就想追，現在照規則",
+      "大家都在看同一個方向的時候，我先看荷重\n你不會我教你",
+      "新聞再熱，風大不吊\n不上頭、不盯盤、不焦慮",
+      "支腳沒打好，再大的新聞也別硬上\n以前我吃過虧，現在照規則"
+     ]
+    },
+    "hao": {
+     "open": [
+      "昨晚 ANT 登場🔥",
+      "Anthropic 掛牌 話題滿滿📅",
+      "那斯達克新面孔🧐"
+     ],
+     "fact": [
+      "Anthropic 11/19 掛牌那斯達克 代號 ANT📈",
+      "ANT 11/19 首日交易 市場焦點所在🧐"
+     ],
+     "take": [
+      "熱門消息出現 我們的策略不追高😎",
+      "新聞熱的時候 更要看倉位👊",
+      "話題越大 紀律越重要📅",
+      "懂得都懂 熱度不等於方向🧐"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "早安，昨晚 Anthropic 上市了",
+      "起床滑到的大新聞：ANT 掛牌",
+      "昨晚那斯達克有新成員"
+     ],
+     "fact": [
+      "Anthropic 於 11/19（週四）在那斯達克掛牌，代號 ANT，是首個交易日",
+      "11/19 ANT 在那斯達克首度交易"
+     ],
+     "take": [
+      "新股的消息很多，但新手先把風險顧好\n以前玩台股我也追過熱門股\n後來轉戰外匯才學會先看自己能承擔多少",
+      "上班族不需要追每個熱門話題\n守住自己的計畫就夠了",
+      "熱度高的時候最容易衝動\n先冷靜再決定",
+      "你會因為新聞很熱就改變自己的計畫嗎？"
+     ]
+    }
+   }
+  },
+  {
+   "id": "fed-hike",
+   "title": "升息討論升溫壓抑市場",
+   "by": {
+    "hundan": {
+     "open": [
+      "🚨升息兩個字，又把市場嚇到了",
+      "📌聯準會的鷹，還在盤旋",
+      "🔥11/19 這一跌，媒體都點名升息"
+     ],
+     "fact": [
+      "媒體報導 11/19 的大跌與升息討論升溫有關\n聯準會 10 月紀錄 11/18 公布\n市場仍預期 12 月可能升息",
+      "聯準會 10 月會議紀錄 11/18 公布後，市場預期 12 月仍可能升息，媒體指 11/19 大跌與此有關"
+     ],
+     "take": [
+      "結論：利率的消息，一直是行情最大的變數",
+      "結論：不猜聯準會，只管自己的風控。收工下課",
+      "結論：消息面混亂的時候，倉位輕的人最從容",
+      "結論：分享給有緣人，數據公布前不要重倉"
+     ]
+    },
+    "chen": {
+     "open": [
+      "聯準會的態度，市場看得很緊",
+      "升息的討論，這幾天不停",
+      "利率又變成主角了"
+     ],
+     "fact": [
+      "媒體報導 11/19 大跌與升息討論有關；市場在 11/18 的會議紀錄後仍預期 12 月可能升息",
+      "11/18 公布聯準會 10 月紀錄後，市場仍預期 12 月可能升息，11/19 美股下殺"
+     ],
+     "take": [
+      "風向變來變去的時候\n以前我常猜風向，現在照規則",
+      "聯準會的風我控制不了\n你不會我教你，荷重自己控制",
+      "利率消息一來就容易超載\n不上頭、不盯盤、不焦慮",
+      "風向不明就不吊\n以前我不信邪，現在照規則"
+     ]
+    },
+    "hao": {
+     "open": [
+      "升息話題 持續發酵📅",
+      "利率消息 牽動全場🧐",
+      "聯準會 又成焦點📉"
+     ],
+     "fact": [
+      "媒體報導 11/19 大跌與升息討論有關📉",
+      "市場在 11/18 會議紀錄後 仍預期 12 月可能升息🧐"
+     ],
+     "take": [
+      "利率消息多的時候 我們的策略放慢節奏😎",
+      "風向不明 倉位先輕一點👊",
+      "不猜結果 只做準備📅",
+      "懂得都懂 風控永遠第一🔥"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "早安，利率的話題又來了",
+      "昨晚的新聞，離不開升息",
+      "聯準會的態度，還是焦點"
+     ],
+     "fact": [
+      "聯準會 10 月會議紀錄 11/18 公布，市場仍預期 12 月可能升息；媒體報導 11/19 大跌與此有關",
+      "升息討論升溫，媒體指是 11/19 美股下跌的原因之一，市場仍預期 12 月可能升息"
+     ],
+     "take": [
+      "利率消息會影響很多市場\n以前玩台股我也只看個股\n轉戰外匯才發現總體消息有多重要",
+      "新手先搞懂利率為什麼重要\n比預測怎麼走更實用",
+      "上班族不用天天追消息\n重要日期記下來就好",
+      "你有把聯準會的日期放進自己的行事曆嗎？"
+     ]
+    }
+   }
+  }
+ ]
+}

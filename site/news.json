@@ -1,0 +1,756 @@
+{
+ "date": "2026-11-28",
+ "facts": [
+  {
+   "claim": "美股 11/27（週五，感恩節隔天的縮短交易日）收盤全面上漲：道瓊漲約 592 點、約 1.2%，標普 500 漲約 1.6%，那斯達克漲約 2.3%，AI 類股反彈",
+   "sources": [
+    "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html",
+    "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/",
+    "https://www.kiplinger.com/investing/stocks/dow-adds-592-points-on-black-friday-as-ai-fear-fades-stock-market-today"
+   ],
+   "official": false
+  },
+  {
+   "claim": "11/27 收盤後，道瓊本週創 2022 年以來最好的一週；標普 500 本週是近 19 個月最好的一週，本週大漲主要來自 11/23 輝達復職黃仁勳帶動的反彈",
+   "sources": [
+    "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+    "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/",
+    "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
+   ],
+   "official": false
+  },
+  {
+   "claim": "美股 11/25（週三）盤中道瓊一度重挫逾 1,100 點，尾盤大幅收復跌幅，主要指數收盤漲跌互見、接近平盤",
+   "sources": [
+    "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-221745503.html",
+    "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/",
+    "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070"
+   ],
+   "official": false
+  },
+  {
+   "claim": "輝達 11/25 收盤約跌 4%，AI 與晶片股賣壓是盤中震盪的主因",
+   "sources": [
+    "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
+    "https://tldrdailynews.com/news/top-news/business/us-markets-close-lower-as-ai-jitters-and-hot-inflation-data-override-nvidia-ceo-return-bp8wnva57r"
+   ],
+   "official": false
+  },
+  {
+   "claim": "媒體報導，11/25 的震盪與 AI 類股賣壓、偏熱的 PCE 通膨數據及新關稅計畫有關",
+   "sources": [
+    "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/",
+    "https://tldrdailynews.com/news/top-news/business/us-markets-close-lower-as-ai-jitters-and-hot-inflation-data-override-nvidia-ceo-return-bp8wnva57r"
+   ],
+   "official": false
+  },
+  {
+   "claim": "美股 11/24（週二）收盤分歧：道瓊約漲 0.9%，那斯達克約跌 1.5%；輝達前一天大漲逾 30% 後，11/24 股價明顯回吐，晶片股走弱",
+   "sources": [
+    "https://www.kiplinger.com/investing/stocks/dow-brushes-off-tech-rout-tariff-worries-stock-market-today",
+    "https://mlq.ai/news/nasdaq-falls-15-as-nvidia-drops-59-and-chip-stocks-slide-dow-rises-09-and-anthropic-closes-below-its-ipo-price/",
+    "https://247wallst.com/investing/2026/11/24/stock-market-today-jensens-return-to-nvidia-is-causing-index-indigestion/"
+   ],
+   "official": false
+  },
+  {
+   "claim": "美股 11/23（週一）收盤大反彈：道瓊、標普 500、那斯達克都創 2025 年 4 月以來最好的單日表現，那斯達克約漲 6.5%，美股收回上週重挫的約一半",
+   "sources": [
+    "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
+    "https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/",
+    "https://www.cbc.ca/news/business/stock-market-latest-9.7432277"
+   ],
+   "official": false
+  },
+  {
+   "claim": "輝達董事會 11/23 宣布復職黃仁勳為執行長，輝達股價當天大漲逾 30%",
+   "sources": [
+    "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl",
+    "https://www.cbc.ca/news/business/stock-market-latest-9.7432277",
+    "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-surge-over-30-183222460.html"
+   ],
+   "official": false
+  },
+  {
+   "claim": "美股 11/20（週五）收盤續殺：標普 500 約跌 3.7%，道瓊約跌 1.9%；標普 500 與道瓊收盤都比紀錄高點低逾 10%，進入修正",
+   "sources": [
+    "https://stockmarketwatch.com/digest/2026-11-20",
+    "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html",
+    "https://www.nacionale.com/en/articles/why-is-the-stock-market-crashing-sp-500-dow-correction-close-november-20"
+   ],
+   "official": false
+  },
+  {
+   "claim": "那斯達克 11/20（週五）收盤重挫逾 5%，抹去今年以來的漲幅，媒體形容本週是那斯達克表現極差的一週",
+   "sources": [
+    "https://stockmarketwatch.com/digest/2026-11-20",
+    "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html",
+    "https://intelligencereport.org/2026/11/21/stock-market-today-nasdaq-worst-week/"
+   ],
+   "official": false
+  },
+  {
+   "claim": "媒體報導 11/19 的大跌與市場對聯準會升息的討論升溫有關；聯準會 10 月會議紀錄 11/18 公布後，市場仍預期 12 月可能升息",
+   "sources": [
+    "https://247wallst.com/cards/the-dow-s-1-091-point-drop-came-alongside-declines-in-both-t-gspc-market-bell-01m7tszafyfeyqr7mh8p14494j",
+    "https://que.com/markets-split-at-the-close-as-hawkish-fed-minutes-keep-a-december-hike-on-the-table/"
+   ],
+   "official": false
+  }
+ ],
+ "sources": [
+  {
+   "title": "Markets News, Nov. 27, 2026（Yahoo Finance）",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
+  },
+  {
+   "title": "Stock Market Today, Nov. 27（Motley Fool）",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/"
+  },
+  {
+   "title": "Dow Adds 592 Points on Black Friday（Kiplinger）",
+   "url": "https://www.kiplinger.com/investing/stocks/dow-adds-592-points-on-black-friday-as-ai-fear-fades-stock-market-today"
+  },
+  {
+   "title": "Dow rallies nearly 600 points to close out best week since 2022（CNBC）",
+   "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Dow erases 1,100-point drop（MLQ.ai）",
+   "url": "https://mlq.ai/news/dow-erases-1100-point-drop-to-close-up-164-as-nasdaq-pares-46-ai-rout/"
+  },
+  {
+   "title": "Stock Market Today, Nov. 25（Motley Fool）",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+  },
+  {
+   "title": "Stocks close mixed after Wall Street erases sharp decline（ABC News）",
+   "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070"
+  },
+  {
+   "title": "US Markets Close Lower as AI Jitters and Hot Inflation Data（tl;dr daily news）",
+   "url": "https://tldrdailynews.com/news/top-news/business/us-markets-close-lower-as-ai-jitters-and-hot-inflation-data-override-nvidia-ceo-return-bp8wnva57r"
+  },
+  {
+   "title": "Stocks close mixed on Wednesday, November 25, 2026（Vista Global）",
+   "url": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
+  },
+  {
+   "title": "Stock Market Today, Nov. 25（Yahoo Finance）",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-221745503.html"
+  },
+  {
+   "title": "Dow Brushes Off Tech Rout（Kiplinger）",
+   "url": "https://www.kiplinger.com/investing/stocks/dow-brushes-off-tech-rout-tariff-worries-stock-market-today"
+  },
+  {
+   "title": "Nasdaq falls 1.5% as Nvidia drops and chip stocks slide; Dow rises 0.9%（MLQ.ai）",
+   "url": "https://mlq.ai/news/nasdaq-falls-15-as-nvidia-drops-59-and-chip-stocks-slide-dow-rises-09-and-anthropic-closes-below-its-ipo-price/"
+  },
+  {
+   "title": "Stock Market Today: Jensen's Return to Nvidia Is Causing Index Indigestion（24/7 Wall St.）",
+   "url": "https://247wallst.com/investing/2026/11/24/stock-market-today-jensens-return-to-nvidia-is-causing-index-indigestion/"
+  },
+  {
+   "title": "Stock market today: Dow, S&P 500, Nasdaq post best day since April 2025 as Nvidia soars on Jensen Huang's return（Yahoo Finance）",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+  },
+  {
+   "title": "Stock Market Today: Nasdaq Jumps 6.5% as Huang Returns（FinanceFeeds）",
+   "url": "https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/"
+  },
+  {
+   "title": "Nvidia shares soar more than 30% after Huang reinstated as CEO（CNN）",
+   "url": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl"
+  },
+  {
+   "title": "North American stocks soar, recovering half of last week's plunge（CBC）",
+   "url": "https://www.cbc.ca/news/business/stock-market-latest-9.7432277"
+  },
+  {
+   "title": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds（Yahoo Finance）",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html"
+  },
+  {
+   "title": "Market Digest — Friday, November 20, 2026（StockMarketWatch）",
+   "url": "https://stockmarketwatch.com/digest/2026-11-20"
+  },
+  {
+   "title": "S&P 500 and Dow close in a correction as the AI sell-off deepens（Nacionale）",
+   "url": "https://www.nacionale.com/en/articles/why-is-the-stock-market-crashing-sp-500-dow-correction-close-november-20"
+  },
+  {
+   "title": "Why a Record IPO Could Not Stop Nasdaq's Worst Week（Intelligence Report）",
+   "url": "https://intelligencereport.org/2026/11/21/stock-market-today-nasdaq-worst-week/"
+  },
+  {
+   "title": "S&P 500 Drops Nearly 2% at the Close as Rate Hike Talk Hits Markets（24/7 Wall St.）",
+   "url": "https://247wallst.com/cards/the-dow-s-1-091-point-drop-came-alongside-declines-in-both-t-gspc-market-bell-01m7tszafyfeyqr7mh8p14494j"
+  },
+  {
+   "title": "Markets split at the close as hawkish Fed minutes keep a December hike on the table（QUE.com）",
+   "url": "https://que.com/markets-split-at-the-close-as-hawkish-fed-minutes-keep-a-december-hike-on-the-table/"
+  }
+ ],
+ "stories": [
+  {
+   "id": "blackfriday-1127",
+   "title": "11/27 黑五縮短交易日，美股全面收高、AI 類股反彈",
+   "by": {
+    "hundan": {
+     "open": [
+      "🚨黑五這天，美股自己先打折完",
+      "🔥11/27 縮短盤，紅轉綠一整片",
+      "📌感恩節隔天的美股，開心收工"
+     ],
+     "fact": [
+      "11/27（週五）縮短交易日\n道瓊漲約 592 點、約 1.2%\n標普 500 約漲 1.6%\n那斯達克約漲 2.3%",
+      "美股黑五 11/27 全面收高，那斯達克約漲 2.3%、標普 500 約漲 1.6%、道瓊約漲 1.2%，AI 類股反彈",
+      "11/27 收盤三大指數齊揚，道瓊漲約 592 點，AI 類股帶頭回神"
+     ],
+     "take": [
+      "結論：縮短盤量小，漲跌看看就好，別當成趨勢。收工下課",
+      "結論：反彈的時候最容易放鬆風控，分享給有緣人",
+      "結論：漲一天不代表跌完，倉位小一點比較穩",
+      "結論：別人追高的時候，你先檢查停損有沒有設"
+     ]
+    },
+    "chen": {
+     "open": [
+      "假日的場子人少，吊臂也別太用力",
+      "黑五這天，荷重突然變輕了",
+      "連假隔天，風停了一陣子"
+     ],
+     "fact": [
+      "11/27 美股縮短交易日，道瓊約漲 1.2%、標普 500 約漲 1.6%、那斯達克約漲 2.3%",
+      "11/27（週五）收盤全面收高，道瓊漲約 592 點，AI 類股明顯反彈",
+      "黑五縮短盤，11/27 那斯達克約漲 2.3%，量縮的日子漲幅參考就好"
+     ],
+     "take": [
+      "風停了不代表不會再起\n以前我看到反彈就加碼，現在照規則",
+      "量小的日子荷重看不準\n你不會我教你，先看支腳再動",
+      "超載最怕在漲的時候放鬆\n不上頭、不盯盤、不焦慮",
+      "一天的好風，不夠拿來決定整週\n風大不吊"
+     ]
+    },
+    "hao": {
+     "open": [
+      "11/27 黑五 美股全紅📈",
+      "縮短交易日 三大指數齊漲🔥",
+      "感恩節隔天 收盤一片綠😎"
+     ],
+     "fact": [
+      "11/27 道瓊漲約 592 點 約 1.2%📈",
+      "標普 500 約漲 1.6% 那斯達克約漲 2.3%🔥",
+      "縮短盤 AI 類股反彈 三大指數收高😎"
+     ],
+     "take": [
+      "量小的日子 我們的策略照節奏走👊",
+      "反彈不等於風險消失🧐",
+      "消息有漲有跌 風控先行📅",
+      "懂得都懂 先把倉位管好再說😎"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "週末早安，上週五的美股收得很漂亮",
+      "上班族睡前看到美股大漲，心情也跟著好",
+      "11/27 黑五，美股給了一個紅包"
+     ],
+     "fact": [
+      "美股 11/27（週五）縮短交易日收盤全面上漲，道瓊約漲 1.2%、標普 500 約漲 1.6%、那斯達克約漲 2.3%",
+      "11/27 道瓊漲約 592 點，AI 類股反彈，三大指數都收高",
+      "黑五縮短盤，11/27 那斯達克約漲 2.3%，成交量偏小，漲幅宜保守看待"
+     ],
+     "take": [
+      "大漲的日子也要提醒自己\n以前玩台股我也被一天的紅盤沖昏頭\n轉戰外匯才學會先看風險",
+      "新手看到大漲先不要急著進場\n先確認倉位和停損",
+      "上班族不用追每一根紅 K\n設好風控比盯盤實用",
+      "漲了一天的時候，你會先檢查自己的倉位嗎？"
+     ]
+    }
+   }
+  },
+  {
+   "id": "best-week-1127",
+   "title": "本週收官：道瓊創 2022 年以來最好的一週，標普 500 近 19 個月最強",
+   "by": {
+    "hundan": {
+     "open": [
+      "🚨一週前還在崩，這週居然收最強",
+      "🔥上週血流成河，這週補回一大塊",
+      "📌本週美股，坐完一趟大迴圈"
+     ],
+     "fact": [
+      "本週收官\n道瓊創 2022 年以來最好的一週\n標普 500 是近 19 個月最好的一週\n主因是 11/23 輝達復職黃仁勳帶動反彈",
+      "11/27 收盤後，道瓊本週是 2022 年以來最強，標普 500 是近 19 個月最強",
+      "這週大漲主要來自 11/23 的反彈，道瓊週表現創 2022 年以來最好"
+     ],
+     "take": [
+      "結論：一週漲回來，不等於安全，風控照做。收工下課",
+      "結論：跌得兇、彈得也兇，這就是現在的盤。分享給有緣人",
+      "結論：週線漂亮不代表下週順，倉位別放大",
+      "結論：過了一週還是同一句：先活下來"
+     ]
+    },
+    "chen": {
+     "open": [
+      "一週前吊臂差點被風吹斷，這週穩回來了",
+      "這週荷重忽輕忽重，吊車司機都累",
+      "一週的大風，今天終於收工"
+     ],
+     "fact": [
+      "本週收官，道瓊創 2022 年以來最好的一週，標普 500 是近 19 個月最好的一週",
+      "這週的大漲主要來自 11/23 輝達復職黃仁勳的反彈，11/27 收盤後道瓊週表現是 2022 年以來最佳",
+      "11/27 收盤，標普 500 本週是近 19 個月最強"
+     ],
+     "take": [
+      "週線漂亮，也要先看荷重\n以前我看到週線大漲就想補倉，現在照規則",
+      "大風之後不是沒風\n你不會我教你，下週先看支腳",
+      "超載就是超載，不管這週漲多少\n不上頭、不盯盤、不焦慮",
+      "風大不吊\n這週的紅不代表下週的風停了"
+     ]
+    },
+    "hao": {
+     "open": [
+      "本週收官 道瓊最強一週📅",
+      "標普 500 近 19 個月最強一週🔥",
+      "一週回血 美股收得漂亮😎"
+     ],
+     "fact": [
+      "道瓊本週 創 2022 年以來最好一週📈",
+      "標普 500 近 19 個月最強一週 主因 11/23 反彈🔥",
+      "11/27 收盤 週表現全面轉強😎"
+     ],
+     "take": [
+      "週線漂亮 我們的策略照節奏走👊",
+      "大漲之後 風控更要在位🧐",
+      "下週還有消息 倉位先管好📅",
+      "懂得都懂 週線好看不代表下週也順😎"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "週末早安，這週美股的故事有點精彩",
+      "上班族這週看盤像坐雲霄飛車",
+      "11/27 收官，這週美股漲得很用力"
+     ],
+     "fact": [
+      "11/27 收盤後，道瓊本週是 2022 年以來最好的一週，標普 500 是近 19 個月最好的一週",
+      "本週美股大漲，主要來自 11/23 輝達復職黃仁勳帶動的反彈，道瓊週表現創 2022 年以來最佳",
+      "標普 500 本週是近 19 個月最強的一週，11/27 收盤確認"
+     ],
+     "take": [
+      "一週大漲不用急著追\n以前玩台股我也有追高被套的經驗\n轉戰外匯才學會先看自己的倉位",
+      "新手看到最強一週先別急\n先確認自己的風控有沒有跟上",
+      "上班族週末可以先檢查一下倉位\n下週再決定怎麼處理",
+      "這週這麼大的起伏，你的風控有跟上嗎？"
+     ]
+    }
+   }
+  },
+  {
+   "id": "rebound-1125",
+   "title": "11/25 美股盤中重挫、尾盤收復，主要指數漲跌互見",
+   "by": {
+    "hundan": {
+     "open": [
+      "🚨11/25 美股，早上嚇人、尾盤打臉",
+      "🔥道瓊盤中掉逾 1,100 點，最後居然拉回來",
+      "📌週三美股，過山車坐完了"
+     ],
+     "fact": [
+      "11/25（週三）美股\n道瓊盤中一度重挫逾 1,100 點\n尾盤收復，收盤漲跌互見\n輝達約跌 4%",
+      "美股週三 11/25 盤中大震盪，道瓊一度跌逾 1,100 點，收盤已經接近平盤，輝達約跌 4%",
+      "11/25 收盤漲跌互見，但盤中道瓊曾重挫逾 1,100 點，媒體報導與 AI 賣壓、偏熱的 PCE 和新關稅計畫有關"
+     ],
+     "take": [
+      "結論：盤中跌多少不重要，你的停損有沒有設才重要。收工下課",
+      "結論：尾盤拉回不代表安全，風控照做",
+      "結論：一天過山車，最怕的是被洗出去又追回來。分享給有緣人",
+      "結論：消息一堆的時候，倉位小一點睡得比較著"
+     ]
+    },
+    "chen": {
+     "open": [
+      "風一下子大到吊不動，後來又停了",
+      "早上荷重暴增，下午又放鬆",
+      "這天盤面像突然的強陣風"
+     ],
+     "fact": [
+      "11/25 道瓊盤中一度重挫逾 1,100 點，尾盤收復，收盤漲跌互見",
+      "11/25（週三）輝達收盤約跌 4%，AI 與晶片股賣壓拉大盤中震盪",
+      "11/25 盤中大跌後尾盤拉回，媒體報導與 PCE 偏熱、新關稅計畫和 AI 賣壓有關"
+     ],
+     "take": [
+      "風大不吊\n以前我看到拉回就想衝，現在照規則",
+      "盤中忽上忽下\n你不會我教你，先看荷重再動",
+      "超載的時候不要賭尾盤\n不上頭、不盯盤、不焦慮",
+      "陣風來得快去得也快\n支腳沒打好就先別動"
+     ]
+    },
+    "hao": {
+     "open": [
+      "11/25 美股 過山車📅",
+      "道瓊盤中 跌逾 1,100 點🧐",
+      "週三收盤 漲跌互見😎"
+     ],
+     "fact": [
+      "11/25 道瓊盤中一度跌逾 1,100 點 尾盤收復📉",
+      "輝達 11/25 收盤約跌 4% 晶片股賣壓仍在🧐",
+      "媒體報導 11/25 與 PCE 偏熱 新關稅 AI 賣壓有關📅"
+     ],
+     "take": [
+      "盤中再大的震盪 我們的策略照節奏走👊",
+      "尾盤拉回 不等於風險消失😎",
+      "消息密集的日子 風控先行🧐",
+      "懂得都懂 先活下來比猜方向重要📈"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "早安，昨晚美股的盤中很驚險",
+      "上班族睡前看到大跌，醒來發現拉回了",
+      "11/25 的美股，早盤和收盤像兩個世界"
+     ],
+     "fact": [
+      "美股 11/25（週三）盤中道瓊一度重挫逾 1,100 點，尾盤收復，收盤漲跌互見",
+      "11/25 輝達收盤約跌 4%，AI 與晶片股賣壓是盤中震盪的主因",
+      "媒體報導，11/25 的震盪與偏熱的 PCE、新關稅計畫和 AI 賣壓有關"
+     ],
+     "take": [
+      "盤中的大起大落不用嚇到\n以前玩台股我也被一根長黑 K 嚇過\n轉戰外匯才學會先看自己的風險",
+      "新手遇到盤中急殺\n先確認倉位大小，比猜尾盤實用",
+      "上班族不用盯著盤中跳動\n睡前設好風控就好",
+      "一天的過山車，你有想過如果是持倉當下會怎麼處理嗎？"
+     ]
+    }
+   }
+  },
+  {
+   "id": "split-1124",
+   "title": "11/24 美股收盤分歧：道瓊漲、那斯達克跌，輝達回吐",
+   "by": {
+    "hundan": {
+     "open": [
+      "🚨11/24 收盤，昨天的嗨，今天打折",
+      "🔥輝達前一天衝上天，隔天就喘了",
+      "📌週二美股，一邊漲一邊跌"
+     ],
+     "fact": [
+      "11/24（週二）美股收盤\n道瓊約漲 0.9%\n那斯達克約跌 1.5%\n輝達前一天暴衝逾 30%，這天明顯回吐",
+      "美股週二 11/24 兩樣情，道瓊約漲 0.9%、那斯達克約跌 1.5%，輝達與晶片股走弱",
+      "11/24 收盤，那斯達克約跌 1.5%、道瓊約漲 0.9%，前一天大漲逾 30% 的輝達這天回頭下殺"
+     ],
+     "take": [
+      "結論：一天大漲、隔天回吐，追高的人最難受。收工下課",
+      "結論：消息行情只看一天不準，照計畫比較實在",
+      "結論：指數分歧的時候，更別把倉位壓在同一邊。分享給有緣人",
+      "結論：昨天的熱鬧過了，今天先檢查風控"
+     ]
+    },
+    "chen": {
+     "open": [
+      "風剛吹正，又換了方向",
+      "昨天吊得高，今天荷重就變重",
+      "連兩天的盤面，像陣風一樣亂"
+     ],
+     "fact": [
+      "11/24 美股收盤，道瓊約漲 0.9%，那斯達克約跌 1.5%，輝達前一天漲逾 30% 後明顯回吐",
+      "11/24（週二）那斯達克約跌 1.5%，晶片股走弱；道瓊反而約漲 0.9%",
+      "輝達 11/23 大漲逾 30%，隔天 11/24 回吐，那斯達克約跌 1.5%"
+     ],
+     "take": [
+      "一天衝太高，隔天最容易超載\n以前我追過，現在照規則",
+      "風一變向就別硬吊\n你不會我教你，先看支腳",
+      "行情忽上忽下\n不上頭、不盯盤、不焦慮",
+      "風大不吊，風亂更不吊\n以前我捨不得停，現在照規則"
+     ]
+    },
+    "hao": {
+     "open": [
+      "11/24 美股 兩樣情📅",
+      "輝達 大漲後回吐🧐",
+      "週二收盤 道瓊漲 那指跌😎"
+     ],
+     "fact": [
+      "11/24 道瓊約漲 0.9% 那斯達克約跌 1.5%📉",
+      "輝達 11/23 大漲逾 30% 隔天明顯回吐🧐",
+      "晶片股 11/24 走弱 拖累那斯達克📉"
+     ],
+     "take": [
+      "大漲隔天的震盪 我們的策略不追不慌👊",
+      "消息行情 節奏比情緒重要😎",
+      "指數分歧的時候 風控先行🧐",
+      "懂得都懂 漲得快回得也快📉"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "早安，昨晚美股的走勢有點分歧",
+      "上班族睡一覺，美股一邊漲一邊跌",
+      "11/24 的美股，昨天的熱度退了一些"
+     ],
+     "fact": [
+      "美股 11/24（週二）收盤，道瓊約漲 0.9%，那斯達克約跌 1.5%，輝達前一天大漲後回吐",
+      "11/24 晶片股走弱，那斯達克約跌 1.5%，道瓊約漲 0.9%",
+      "輝達 11/23 大漲逾 30% 之後，11/24 明顯回吐，那斯達克約跌 1.5%"
+     ],
+     "take": [
+      "一天的漲跌不用太在意\n以前玩台股我也被單日行情牽著走\n轉戰外匯才學會看大方向",
+      "新手遇到大起大落\n先看自己的倉位比追消息實用",
+      "上班族看週線就夠了\n不用每天盯著輝達",
+      "連兩天行情反轉，你有重新檢查過自己的風險嗎？"
+     ]
+    }
+   }
+  },
+  {
+   "id": "close-1123",
+   "title": "11/23 美股大反彈收盤：輝達復職黃仁勳，那斯達克約漲 6.5%",
+   "by": {
+    "hundan": {
+     "open": [
+      "🚨11/23 收盤，上週的跌收回一半",
+      "🔥輝達換回老將，全場跟著衝",
+      "📌週一美股，一天就把人拉上雲霄飛車"
+     ],
+     "fact": [
+      "11/23（週一）美股收盤大反彈\n道瓊、標普 500、那斯達克都是 2025 年 4 月以來最強的一天\n那斯達克約漲 6.5%\n輝達漲逾 30%，董事會復職黃仁勳",
+      "輝達董事會 11/23 宣布復職黃仁勳，股價大漲逾 30%，帶動那斯達克約漲 6.5%，美股收回上週大跌的約一半",
+      "11/23 美股三大指數同步大漲，是 2025 年 4 月以來最好的一天，上週的重挫收復約一半"
+     ],
+     "take": [
+      "結論：一天漲回一半，不代表跌完了。收工下課",
+      "結論：消息推動的行情，來得快、走得也快。分享給有緣人",
+      "結論：大漲大跌都是波動，倉位大的人最痛",
+      "結論：別人在慶祝的時候，你只要檢查自己的風控"
+     ]
+    },
+    "chen": {
+     "open": [
+      "風一下子轉向，吊臂最危險",
+      "一個人事異動，把整個盤面吹起來",
+      "上週吹倒，這週吹正，你敢信嗎"
+     ],
+     "fact": [
+      "11/23 美股收盤大漲，輝達因黃仁勳復職漲逾 30%，那斯達克約漲 6.5%",
+      "輝達董事會 11/23 讓黃仁勳回任執行長，美股當天是 2025 年 4 月以來最好的一天，上週跌幅收回約一半",
+      "11/23（週一）三大指數同步反彈，那斯達克約漲 6.5%，輝達領頭漲逾 30%"
+     ],
+     "take": [
+      "風向轉得快，荷重更要看清楚\n以前我一看到漲就衝，現在照規則",
+      "一天彈這麼多，最容易超載\n你不會我教你，先看支腳",
+      "風大不吊，風突然變向也不吊\n不上頭、不盯盤、不焦慮",
+      "反彈吹得再猛，也要等風穩\n以前我追過，現在照規則"
+     ]
+    },
+    "hao": {
+     "open": [
+      "11/23 美股大反彈📈",
+      "輝達一天暴衝 全場跟上🔥",
+      "週一收盤 上週的跌收回一半😎"
+     ],
+     "fact": [
+      "11/23 美股收盤 那斯達克約漲 6.5% 輝達漲逾 30%📈",
+      "黃仁勳回任執行長 輝達 11/23 大漲逾 30%🔥",
+      "三大指數 11/23 同步大漲 是 2025 年 4 月以來最強一天📅"
+     ],
+     "take": [
+      "大漲之後 我們的策略不追高先看節奏👊",
+      "消息行情 倉位比情緒重要😎",
+      "一天的反彈不是趨勢 風控先行🧐",
+      "懂得都懂 漲得快也跌得快📉"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "早安，昨天美股收盤大反彈",
+      "上班族昨晚睡一覺，美股漲回上週的一半",
+      "11/23 的美股，單日波動超大"
+     ],
+     "fact": [
+      "11/23（週一）美股收盤大漲，那斯達克約漲 6.5%，輝達因黃仁勳復職漲逾 30%",
+      "輝達董事會 11/23 宣布黃仁勳回任執行長，美股當天創 2025 年 4 月以來最好的一天",
+      "上週重挫之後，11/23 美股收回約一半跌幅，那斯達克約漲 6.5%"
+     ],
+     "take": [
+      "大漲的日子，新手最容易想追\n以前玩台股我也這樣，轉戰外匯才學會先看風險",
+      "一天的漲跌不用太在意\n上班族看週線就夠了",
+      "消息帶動的行情很難預測\n先顧好自己的倉位比較實用",
+      "看到大反彈，你的第一個念頭是想追，還是先檢查風險？"
+     ]
+    }
+   }
+  },
+  {
+   "id": "correction-1120",
+   "title": "美股 11/20 續殺，標普與道瓊進入修正",
+   "by": {
+    "hundan": {
+     "open": [
+      "🚨週五美股，血流成河",
+      "🔥標普和道瓊，雙雙掉進修正區",
+      "📌11/20 收盤，又是紅字一整片"
+     ],
+     "fact": [
+      "11/20（週五）美股收盤\n標普 500 約跌 3.7%\n道瓊約跌 1.9%\n兩者都比紀錄高點低逾 10%，進入修正",
+      "美股週五 11/20 續殺，標普 500 約跌 3.7%、道瓊約跌 1.9%，標普與道瓊都進入修正"
+     ],
+     "take": [
+      "結論：大跌過後，倉位輕的人才睡得好",
+      "結論：跌到修正區，更要照計畫，不是照情緒。收工下課",
+      "結論：開盤前先檢查自己扛不扛得住，分享給有緣人",
+      "結論：行情亂的時候，活下來比什麼都重要"
+     ]
+    },
+    "chen": {
+     "open": [
+      "上週收尾的風，特別大",
+      "週五那一根，看得我手心冒汗",
+      "美股一週跌到修正，你上週睡得好嗎"
+     ],
+     "fact": [
+      "美股 11/20 收盤，標普 500 約跌 3.7%，道瓊約跌 1.9%\n兩個指數都比高點低逾 10%",
+      "11/20（週五）標普 500 與道瓊雙雙收在修正區，單日分別約跌 3.7% 與 1.9%"
+     ],
+     "take": [
+      "風這麼大的時候，機具停好最安全\n以前我硬撐，現在照規則",
+      "荷重不夠就別硬上\n你不會我教你，大風天先看支腳穩不穩",
+      "超載的時候最危險\n不上頭、不盯盤、不焦慮",
+      "風大不吊是鐵律\n以前我捨不得停工，現在照規則"
+     ]
+    },
+    "hao": {
+     "open": [
+      "週五收盤 全面重挫📉",
+      "標普道瓊 雙雙進修正區🧐",
+      "11/20 一週收在紅字📅"
+     ],
+     "fact": [
+      "11/20 標普 500 約跌 3.7% 道瓊約跌 1.9%📉",
+      "標普與道瓊 都比高點低逾 10% 進入修正🧐"
+     ],
+     "take": [
+      "行情急殺的時候 我們的策略先顧倉位👊",
+      "現在正好 檢查一遍自己的風控😎",
+      "情緒最亂的時候 紀律最值錢📅",
+      "懂得都懂 先活著才有下一場👊"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "早安，不過上週五的收盤不太愉快",
+      "上班族上週辛苦了，美股收在大跌",
+      "週五的美股，值得好好回頭看一下"
+     ],
+     "fact": [
+      "美股 11/20（週五）收盤，標普 500 約跌 3.7%，道瓊約跌 1.9%，兩者都進入修正",
+      "11/20 標普 500 與道瓊雙雙跌入修正區，單日分別約跌 3.7% 與 1.9%"
+     ],
+     "take": [
+      "大跌那週最容易衝動\n以前玩台股我也常在恐慌時亂動\n後來轉戰外匯才學會先停下來",
+      "新手遇到修正，先看自己的倉位\n比猜下週怎麼走更重要",
+      "上班族不用週末還盯著盤\n休市的時候好好休息，也是保護自己",
+      "這個週末，你有檢查過自己的風險嗎？"
+     ]
+    }
+   }
+  },
+  {
+   "id": "fed-next-week",
+   "title": "升息預期未散，這週的消息面",
+   "by": {
+    "hundan": {
+     "open": [
+      "🚨升息兩個字，上週一直卡在市場喉嚨",
+      "📌聯準會的鷹，還在盤旋",
+      "🔥上週的跌，媒體一直點名升息"
+     ],
+     "fact": [
+      "聯準會 10 月會議紀錄 11/18 公布\n市場仍預期 12 月可能升息\n媒體報導 11/19 的大跌與此有關",
+      "11/18 公布的聯準會 10 月會議紀錄後，市場仍預期 12 月可能升息；媒體指 11/19 大跌與升息討論升溫有關"
+     ],
+     "take": [
+      "結論：利率的消息，永遠是行情最大的變數",
+      "結論：不猜聯準會，只管自己的風控。收工下課",
+      "結論：消息面亂的時候，倉位輕的人最從容",
+      "結論：分享給有緣人，數據公布前不要重倉"
+     ]
+    },
+    "chen": {
+     "open": [
+      "聯準會的態度，市場看得很緊",
+      "升息的討論，上週整週都沒停",
+      "利率又變成主角了"
+     ],
+     "fact": [
+      "11/18 聯準會 10 月紀錄公布後，市場仍預期 12 月可能升息，媒體指 11/19 美股下殺與此有關",
+      "媒體報導 11/19 大跌與升息討論有關；市場在 11/18 的會議紀錄後仍預期 12 月可能升息"
+     ],
+     "take": [
+      "風向變來變去的時候\n以前我常猜風向，現在照規則",
+      "聯準會的風我控制不了\n你不會我教你，荷重自己控制",
+      "利率消息一來就容易超載\n不上頭、不盯盤、不焦慮",
+      "風向不明就不吊\n以前我不信邪，現在照規則"
+     ]
+    },
+    "hao": {
+     "open": [
+      "升息話題 持續發酵📅",
+      "利率消息 牽動全場🧐",
+      "聯準會 又成焦點📉"
+     ],
+     "fact": [
+      "媒體報導 11/19 大跌與升息討論有關📉",
+      "市場在 11/18 會議紀錄後 仍預期 12 月可能升息🧐"
+     ],
+     "take": [
+      "利率消息多的時候 我們的策略放慢節奏😎",
+      "風向不明 倉位先輕一點👊",
+      "不猜結果 只做準備📅",
+      "懂得都懂 風控永遠第一🔥"
+     ],
+     "end": [
+      "專業的事交給專業的人✍️"
+     ]
+    },
+    "weijie": {
+     "open": [
+      "早安，利率的話題還沒結束",
+      "上週的新聞，離不開升息",
+      "聯準會的態度，仍是焦點"
+     ],
+     "fact": [
+      "聯準會 10 月會議紀錄 11/18 公布，市場仍預期 12 月可能升息；媒體報導 11/19 大跌與此有關",
+      "升息討論升溫，媒體指是 11/19 美股下跌的原因之一，市場仍預期 12 月可能升息"
+     ],
+     "take": [
+      "利率消息會影響很多市場\n以前玩台股我也只看個股\n轉戰外匯才發現總體消息有多重要",
+      "新手先搞懂利率為什麼重要\n比預測怎麼走更實用",
+      "上班族不用天天追消息\n重要日期記下來就好",
+      "你有把聯準會的日期放進自己的行事曆嗎？"
+     ]
+    }
+   }
+  }
+ ]
+}
